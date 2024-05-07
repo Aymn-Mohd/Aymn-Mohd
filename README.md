@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Aymn-Mohd
--  Flutter Fan
-- 🌱 I’m currently in High School
-- 💞️ I’m looking to collaborate on few ML/AI apps and FLutter Apps
 
 
 <!---
