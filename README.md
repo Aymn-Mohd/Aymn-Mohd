@@ -36,7 +36,6 @@ I believe in:
 ## 🌟 Let’s Connect  
 
 Want to collaborate, share ideas, or just say hi? Reach out!  
-📧 Email: [aymn.mohd@example.com](mailto:aymn.mohd@example.com)  
 🔗 Portfolio: [aymnmohd.me](https://aymnmohd.me/)  
 
 ---
