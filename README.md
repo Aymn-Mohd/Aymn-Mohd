@@ -2,22 +2,23 @@
 
 🌐 **Portfolio:** [aymnmohd.me](https://aymnmohd.me/)  
 💼 **LinkedIn:** [Ayman Mohammed](https://www.linkedin.com/in/aymn-mohd/)  
+🐔 **Twitter:** [ayman Mohammed](https://x.com/aymnmohdd)
 
 ---
 
 ## 🛠️ About Me  
 
-Hi, I’m **Ayman Mohammed**, I am programmer based in Dubai, building at the intersection of AI/ML, Cybersecurity, Engineering, Design. Studying Computer Engineering & Autonomous Systems at the University of Wollongong in Dubai.
+Hi, I’m **Ayman Mohammed**, I am a programmer based in Dubai, building at the intersection of AI/ML, Cybersecurity, Engineering, Design. Studying Computer Engineering & Autonomous Systems at the University of Wollongong in Dubai.
 
 ---
 
 ## 🚀 Highlights  
 
-### 🔹 [TailorReach](#)  
-A SaaS marketing tool designed to empower businesses with advanced retargeting strategies.  
+### 🔹 [Buildstage](buildstage.co)  
+A cosmos.so & dribble inspired inspo page for builders, founders to share and get inspiration from people while being 100% and No Algo
 
-### 🔹 [File Integrity Manager](#)  
-A robust system that ensures data integrity and security with user-friendly functionality.  
+### 🔹 [TailorReach](https://github.com/Aymn-Mohd/TailorReach-Demo)  
+A SaaS marketing tool designed to empower businesses with advanced retargeting strategies.  
 
 ### 🔹 [22-Day CTF Challenge](https://ctf.aymnmohd.tech/picoctf-2023)  
 An immersive Capture the Flag challenge that strengthens cybersecurity skills with tools like **nmap**, **binwalk**, **gobuster**, and more.  
